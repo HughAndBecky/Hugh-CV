@@ -5,7 +5,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 title = "Projects"
-subtitle = ""
+subtitle = "Corporate & Personal projects"
 
 # Order that this section will appear in.
 weight = 50
@@ -31,14 +31,28 @@ filter_default = 0
 # [[filter]]
 #   name = "All"
 #   tag = "*"
-#  
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = ".deep-learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = ".demo"
 
+[[filter]]
+  name = "Archive"
+  tag = ".Archive"
+
+[[filter]]
+  name = "Language Documentation"
+   tag = ".Language-Documentation"
+
+[[filter]]
+ name = "Architecture"
+ tag = ".Architecture"
+
+#[[filter]]
+#  name = "Text Input"
+#  tag = ".typing"
+
+[[filter]]
+  name = "Orthographies"
+  tag = ".Orthographies"
+
+[[filter]]
+  name = "User Experience"
+  tag = ".UX"
 +++
-
