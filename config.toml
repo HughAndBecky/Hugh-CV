@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -171,7 +171,7 @@ defaultContentLanguageInSubdir = false
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
-    'Book section'  # 6
+    'Book section',  # 6
     'White Paper', # 7
     'Poster' #8
   ]
@@ -219,11 +219,6 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/gcushen"
-
-[[params.social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:hugh.paterson@sil.org"
@@ -297,6 +292,7 @@ defaultContentLanguageInSubdir = false
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
+  locations = "locations"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
