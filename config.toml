@@ -6,11 +6,11 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Hugh's Resume"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "Hugh Paterson III &copy; 2018"
 
 theme = "academic"
 enableEmoji = true
@@ -47,23 +47,24 @@ defaultContentLanguageInSubdir = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Hugh Paterson III"
+  role = "Innovation Analyst"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "SIL International", url = "http://www.sil.org" } ]
 
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "hugh.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  address = "Eugene, Oregon 97403, USA"
+  office_hours = "email for appointment"
+  phone = "618.567.9799"
+  skype = "misionpilot"
+  blog = "hugh.thejourneyler.org" 
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
