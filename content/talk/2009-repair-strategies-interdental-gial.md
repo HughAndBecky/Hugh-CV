@@ -1,21 +1,30 @@
 +++
-abstract = ""
-abstract_short = ""
-date = "2009-05-18T20:48:09-07:00"
-event = "Graduate Institute of Applied Linguistics, Academic Forum"
-event_url = ""
-highlight = true
-location = "Dallas, Tx"
-math = false
-selected = false
+date = "2009-05-18"
 title = "Repair strategies used with the interdental approximant in some Philippine languages"
 
-  url_pdf = ""
-  url_code = ""
-  url_dataset = ""
-  url_project = ""
-  url_slides = ""
-  url_video = ""
+time_start =""
+time_end =""
+
+abstract = ""
+abstract_short = ""
+event = "Graduate Institute of Applied Linguistics, Academic Forum"
+event_url = ""
+location = "Dallas, Tx"
+# Is this a selected talk? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this talk with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+# projects = ["deep-learning"]
+
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+url_dataset = ""
+
 
 [[url_custom]]
   name = "Blog Post"
@@ -39,6 +48,6 @@ title = "Repair strategies used with the interdental approximant in some Philipp
 
 +++
 
-__Citable as__:
+**Citable as**:
 
 Hugh J. Paterson III (2009) Repair strategies used with the interdental approximant in some Philippine languages. Presentation at the Graduate Institute of Applied Linguistics, Academic Forum, 18 May.
