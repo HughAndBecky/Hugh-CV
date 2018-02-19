@@ -8,13 +8,23 @@ date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Custom Section"
-subtitle = ""
+subtitle = "Classroom & Workshop leadership"
 
 # Order that this section will appear in.
-weight = 60
+weight = 55
 
 +++
+_Teaching Assistant_ University of North Dakota
 
-This is an example of using the *custom* widget to create your own homepage section.
+- Ling 513: Tone Analysis
+ - *with [Keith Snider](https://www.sil.org/biography/keith-snider)*
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+_Personal Trainer_
+ Apple, Inc.
+
+ - One-to-One trainer: iLife, iWork & OS X
+
+ _Classroom instructor_
+It's a Small World
+
+- Elementary German teacher

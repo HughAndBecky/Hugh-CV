@@ -6,11 +6,11 @@ widget = "publications_selected"
 active = true
 date = 2016-04-20
 
-title = "Selected Publications"
-subtitle = ""
+title = "Publications"
+subtitle = "Select publications"
 
 # Order that this section will appear in.
-weight = 10
+weight = 2
 
 # List format.
 #   0 = Simple
@@ -29,5 +29,7 @@ list_format = 1
 #  5: Book
 #  6: Book chapter
 publication_type = "-1"
-+++
 
+# Show publication details (such as abstract)? (true/false)
+detailed_list = true
++++
