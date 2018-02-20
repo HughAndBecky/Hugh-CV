@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = false
   office_hours = "email for appointment"
   phone = "618.567.9799"
   skype = "misionpilot"
-  blog = "hugh.thejourneyler.org" 
+  blog = "hugh.thejourneyler.org"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -180,7 +180,7 @@ defaultContentLanguageInSubdir = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
