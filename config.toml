@@ -3,10 +3,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://hughandbecky.github.io/Hugh-CV/"
+baseurl = "http://www.hughandbecky.us/Hugh-CV/"
 
 # Title of your site
-title = "Hugh's Resume"
+title = "Hugh's Curriculum Vitae"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-31042070-2"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
