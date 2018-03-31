@@ -32,6 +32,7 @@ list_format = 3
 #  6: Book chapter
 #  7: White Papers
 #  8:  Poster
+# 9: Thesis
 publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?

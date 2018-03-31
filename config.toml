@@ -173,7 +173,8 @@ defaultContentLanguageInSubdir = false
     'Book',  # 5
     'Book section',  # 6
     'White Paper', # 7
-    'Poster' #8
+    'Poster', #8
+    'Thesis' #9
   ]
 
 
