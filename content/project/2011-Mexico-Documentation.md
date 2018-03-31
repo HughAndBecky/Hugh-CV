@@ -6,7 +6,7 @@ date = "2011-03-12"
 title = "Meꞌphaa Language Documentation"
 
 # Project summary to display on homepage.
-summary = "A collaboration with an experienced linguist. I contributed extensive metadata and technical audio-visual expertise to the team."
+summary = "A collaboration with an experienced linguist. I contributed extensive metadata and technical audio-visual expertise a team of people from the USA and Meꞌphaa speakers."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Mexico-Language-Documentation-square.jpg"
@@ -24,8 +24,11 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "headers/mexico-wide-2.jpg"
+caption = "Looking out over the Mountains in the Meꞌphaa speaking area. :smile:"
 
 +++
-![Hugh in recording](project/2012-Mexico/IMG_2135.jpg)
+![Hugh in recording](https://hughandbecky.us/Hugh-CV/project/2012-Mexico/File-man.jpg)
+Grammarian of digital file names is the loneliest job of them all.
+
+[Corpus of descriptive work](http://www.mexico.sil.org/publications/i-wpindex/work_papers_-_mephaa_grammar_files).
