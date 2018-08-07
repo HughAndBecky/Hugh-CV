@@ -22,7 +22,7 @@ __Strength Finder Themes__
 + Learner
 + Input
 + Individualization
-+ Ideation
++ [Ideation](http://news.gallup.com/businessjournal/679/ideation.aspx)
 + Focus
 
 __Belbin Team Roles__

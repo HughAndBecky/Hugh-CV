@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://www.hughandbecky.us/Hugh-CV/"
+baseurl = "https://hughandbecky.us/Hugh-CV/"
 
 # Title of your site
 title = "Hugh's Curriculum Vitae"
@@ -154,7 +154,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["override.css"]
   custom_js  = []
 
   # Publication types.
@@ -248,6 +248,11 @@ defaultContentLanguageInSubdir = false
     icon = "academia"
     icon_pack = "ai"
     link = "//und.academia.edu/HughPaterson"
+
+    [[params.social]]
+      icon = "applications"
+      icon_pack = "fa icon"
+      link = "https://hughandbecky.us/Hugh-CV/PDFs/CV-Hugh_Paterson_III.pdf"
 
 
 # Navigation Links

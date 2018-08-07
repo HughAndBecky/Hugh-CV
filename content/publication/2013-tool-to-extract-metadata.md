@@ -2,7 +2,7 @@
 draft = true
 abstract = ""
 abstract_short = ""
-authors = ["GA Cushen"]
+authors = ["Hugh J. Paterson III", "Jeremy Nordmoe"]
 date = "2015-09-01"
 image_preview = ""
 math = true

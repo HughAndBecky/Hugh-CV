@@ -10,7 +10,7 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-  "Platform Development of research environments presenting linguistic and language data",
+  "Platform development of research environments presenting linguistic and language data",
   "Web-based services for linguists",
   "User experience design",
   "Accessibility & usability of research data",
@@ -18,9 +18,9 @@ weight = 1
   "Minority language text input",
   "Linguistic cartography",
   "Language documentation",
-  "Digital Asset Management",
+  "Digital asset management",
   "Orthography usage",
-  "Tone in Orthographies",
+  "Tone in orthographies",
   "Austronesian historical linguistics",
   "Social-linguistic & non-aural factors influencing sound change",
   "Phonetic articulations involving tongue protrusion"
