@@ -66,6 +66,7 @@ defaultContentLanguageInSubdir = false
   skype = "misionpilot"
   blog = "hugh.thejourneyler.org"
   telegram = ""
+  cv = "PDFs/CV-Hugh_Paterson_III.pdf"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
