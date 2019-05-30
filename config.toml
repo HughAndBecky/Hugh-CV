@@ -175,7 +175,8 @@ defaultContentLanguageInSubdir = false
     'Book section',  # 6
     'White Paper', # 7
     'Poster', #8
-    'Thesis' #9
+    'Thesis', #9
+    'Thought Exercise' #10
   ]
 
 
@@ -310,6 +311,7 @@ defaultContentLanguageInSubdir = false
   category = "categories"
   publication_type = "publication_types"
   locations = "locations"
+  languages = "languages" #I think this needs modification so that it can be put in the template.
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
