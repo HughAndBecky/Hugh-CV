@@ -18,6 +18,10 @@ selected = false
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 # projects = ["deep-learning"]
 
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Tone", "International Phonetic Alphabet"]
+
 # Links (optional).
 url_pdf = "http://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS0507.pdf"
 url_slides = ""

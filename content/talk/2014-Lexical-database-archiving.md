@@ -27,6 +27,10 @@ url = "https://linguistics.uoregon.edu/wp-content/uploads/2013/09/Paterson-Hando
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
 
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Lexicography", "Preservation Studies"]
+
 +++
 **Citable as**:
 

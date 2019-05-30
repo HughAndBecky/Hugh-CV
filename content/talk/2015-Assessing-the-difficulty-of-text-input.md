@@ -27,6 +27,10 @@ url = "http://hdl.handle.net/10125/25318"
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption :smile:"
 
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Text Input"]
+
 +++
 
 **Citable as:**
