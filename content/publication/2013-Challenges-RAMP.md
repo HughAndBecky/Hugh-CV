@@ -14,52 +14,51 @@ title = "Challenges of implementing a tool to extract metadata from linguists: t
 url_code = ""
 url_dataset = ""
 url_pdf = "https://scholarspace.manoa.hawaii.edu/handle/10125/26178"
-url_project = ""
+url_project = "project/2012-archive-usability/"
 url_slides = ""
-url_video = ""
+url_video = "https://youtu.be/zBZ1s8baYNA"
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Archive"]
 
 # [[url_custom]]
 # name = "Blog Post"
-#  url = "http://hugh.thejourneyler.org/2013/challenges-of-implementing-a-tool-to-extract-metadata-from-linguists-the-use-case-of-ramp/"
+# url = "http://hugh.thejourneyler.org/2013/challenges-of-implementing-a-tool-to-extract-metadata-from-linguists-the-use-case-of-ramp/"
 
 [[url_custom]]
 name = "Handout"
-url = "http://hugh.thejourneyler.org/wordpress/wp-content/uploads/2013/02/Hawaii-Poster-Handout.pdf"
+url = "publication/2013-Challenges-RAMP/2013-Hawaii-Poster-Handout.pdf"
 
 [[url_custom]]
   name = "SIL Archive"
   url = "http://www.sil.org/resources/archives/52751"
 
 [[url_custom]]
- name = "Video"
-url = "https://youtu.be/zBZ1s8baYNA"
-
-# [[url_custom]]
-#  name = "Draft Paper"
-#  url = ""
-
-[[url_custom]]
  name = "Poster"
- url = "http://hugh.thejourneyler.org/wordpress/wp-content/uploads/2013/02/Hawaii-Poster.pdf"
+ url = "publication/2013-Challenges-RAMP/2013-Hawaii-Poster.pdf"
 
-  [header]
+[header]
     caption = ""
-    image = ""
+    image = "/headers/2013-Hawaii-Poster-v1.4-wide.png"
 +++
+
+{{< figure src="/Hugh-CV/publication/2013-Challenges-RAMP/2013-Hawaii-Poster-v1.4.jpg" alt="Image of Poster">}}
 
 **Citeable as**:
 
-Hugh J. Paterson III and Jeremy Nordmoe (2013) Challenges of implementing a tool to extract metadata from linguists: the use case of RAMP. Poster presented at <a href="http://nflrc.hawaii.edu/icldc/2013/" title="3rd International Conference on Language Documentation and Conservation">3rd International Conference on Language Documentation and Conservation</a>, at the University of Hawai'i Mānoa, Honolulu, HI. February 28 - March 3rd. <ul>
+Hugh J. Paterson III and Jeremy Nordmoe (2013) Challenges of implementing a tool to extract metadata from linguists: the use case of RAMP. Poster presented at <a href="http://nflrc.hawaii.edu/ICLDC/2013/" title="3rd International Conference on Language Documentation and Conservation">3rd International Conference on Language Documentation and Conservation</a>, at the University of Hawai'i Mānoa, Honolulu, HI. February 28 - March 3rd. <ul>
 
-<strong>Bibliography for Poster</strong>:
+#### Bibliography for Poster
+
 <ol>
-	<li>Anderson, Stephen P. 2006. Creating Pleasurable interfaces: Getting from Tasks to Experiences (Poster). <Accessed: 18 February 2013> <a href="http://www.artificialindustry.com/uploads/inspiratie/1295515106from-task-to-experience.png" title="Getting from Tasks to Experiences">http://www.artificialindustry.com/uploads/inspiratie/1295515106from-task-to-experience.png</a> </li>
- <li>Anderson, Stephen P. 2009. Fundamentals of Experience Design (Poster). <Accessed: 18 February 2013>  <a href="http://www.poetpainter.com/thoughts/files/Fundamentals-of-Experience-Design-stephenpa.pdf" title="Fundamentals of Experience Design">http://www.poetpainter.com/thoughts/files/Fundamentals-of-Experience-Design-stephenpa.pdf</a></li>
+<li>Anderson, Stephen P. 2006. Creating Pleasurable interfaces: Getting from Tasks to Experiences (Poster). <Accessed: 18 February 2013> <a href="http://www.artificialindustry.com/uploads/inspiratie/1295515106from-task-to-experience.png" title="Getting from Tasks to Experiences">http://www.artificialindustry.com/uploads/inspiratie/1295515106from-task-to-experience.png</a> </li>
+<li>Anderson, Stephen P. 2009. Fundamentals of Experience Design (Poster). <Accessed: 18 February 2013>  <a href="http://www.poetpainter.com/thoughts/files/Fundamentals-of-Experience-Design-stephenpa.pdf" title="Fundamentals of Experience Design">http://www.poetpainter.com/thoughts/files/Fundamentals-of-Experience-Design-stephenpa.pdf</a></li>
 <li>Anderson, Stephen P. 2011. Seductive interaction design: creating playful, fun, and effective user experiences. Berkeley, CA: New Riders.</li>
 <li>Gray, Jeremy R., Todd S. Braver & Marcus E. Raichle. 2002. Integration of emotion and cognition in the lateral prefrontal cortex. Proceedings of the National Academy of Sciences 99.6: 4115-20. <a href="http://www.pnas.org/content/99/6/4115.abstract" title="Integration of emotion and cognition in the lateral prefrontal cortex">http://www.pnas.org/content/99/6/4115.abstract</a></li>
 <li>Nash, Douglas. 2012. Businessperson. The Noun Project. <a href="http://thenounproject.com/noun/businessperson/#icon-No1673" title="Businessperson">http://thenounproject.com/noun/businessperson/#icon-No1673</a></li>
-<li>Nordmoe, Jeremy. 2011. Introducing RAMP: an application for packaging metadata and resources offline for submission to an institutional repository. In Proceedings of Workshop on Language Documentation & Archiving 18 November 2011 at SOAS, London. Edited by: David Nathan. p. 27-32. <Accessed: 18 February 2013>  <a href="http://www.sil.org/acpub/repository/LDLT3_Nordmoe_preprint.pdf" title="Nordmoe 2011">http://www.sil.org/acpub/repository/LDLT3_Nordmoe_preprint.pdf</a></li>
-<li>Parker, Geoffrey & Marshall W. Van Alstyne. 2000. Information Complements, Substitutes, and Strategic Product Design (November 8, 2000). Available at SSRN: <a href="http://ssrn.com/abstract=249585"title="Information Complements, Substitutes, and Strategic Product Design">http://ssrn.com/abstract=249585</a> or <a href="http://dx.doi.org/10.2139/ssrn.249585" title="DOI: 10.2139/ssrn.249585">DOI: 10.2139/ssrn.249585</a></li>
+<li>Nordmoe, Jeremy. 2011. Introducing RAMP: an application for packaging metadata and resources offline for submission to an institutional repository. In David Nathan (Ed.) Proceedings of Workshop on Language Documentation & Archiving 18 November 2011 at SOAS. London, UK. Pages. 27-32. <Accessed: 18 February 2013>  <a href="https://www.sil.org/resources/archives/43211" title="Nordmoe 2011">https://www.sil.org/resources/archives/43211</a></li>
+<li>Parker, Geoffrey & Marshall W. Van Alstyne. 2000. Information Complements, Substitutes, and Strategic Product Design (November 8, 2000). Available at SSRN: <a href="http://ssrn.com/abstract=249585"title="Information Complements, Substitutes, and Strategic Product Design">http://ssrn.com/abstract=249585</a> or DOI:<a href="http://dx.doi.org/10.2139/ssrn.249585" title="DOI: 10.2139/ssrn.249585">10.2139/ssrn.249585</a></li>
 <li>Traynor, Des. 16 January 2012. Copy the Fit, not the Features. <Accessed: 18 February 2013>. <a href="http://blog.intercom.io/copy-the-fit-not-the-features/" title="Copy the fit not the features">http://blog.intercom.io/copy-the-fit-not-the-features/</a></li>
 </ol>
 
@@ -69,7 +68,7 @@ This poster is a result of experience, statistical data, and some of the ideas p
 
 <em>About the RAMP/DSpace fit</em>:
 <ul>
-<li><a href="http://hugh.thejourneyler.org/2012/leave-typology-to-the-typologists-i-am-a-linguist/ " title="Leave typology to the typologists, I am a linguist">Leave typology to the typologists, I am a linguist</a></li>
+<li><a href="http://hugh.thejourneyler.org/2012/leave-typology-to-the-typologists-i-am-a-linguist/" title="Leave typology to the typologists, I am a linguist">Leave typology to the typologists, I am a linguist</a></li>
 <li><a href="http://hugh.thejourneyler.org/2013/the-sil-archive-and-its-two-sided-markets" title="The SIL Archive and its two sided Markets.">The SIL archive and its two-sided markets</a></li>
 </ul>
 
