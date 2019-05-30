@@ -30,7 +30,7 @@ weight = 1
 [[education.courses]]
   course = "M.A. in Linguistics"
   institution = "University of North Dakota"
-  year = 2018
+  year = 2019
 
 [[education.courses]]
   course = "B.A. in German"
@@ -40,4 +40,4 @@ weight = 1
 +++
 
 # Biography
-Hugh works for SIL International as part of the International innovation team. His work focuses on helping organizational leadership define and clarify their business goals, the kinds of audiences they are trying to serve, and how those audiences are going to experience the provided services. He specializes in leveraging technology, defining work flows, and managing digital assets to meet business goals. Hugh leverages his previous work in language documentation and his background in linguistics  to provide meaningful solutions to those working in language development.
+Hugh works for SIL International as part of the _International Innovation Development & Experimentation team_. His work focuses on helping organizational leadership define and clarify their business goals, the kinds of audiences they are trying to serve, and how those audiences are going to experience the services provided by SIL International. He specializes in leveraging technology, defining work flows, and managing digital assets to meet business goals. Hugh leverages his previous work in language documentation and his background in linguistics to provide meaningful solutions SIL's audiences at the intersection of life and language.

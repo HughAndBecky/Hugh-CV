@@ -5,14 +5,14 @@ widget = "publications"
 active = true
 date = 2016-04-20
 
-title = "Publications"
-subtitle = "Posters & Publications"
+title = "In Progress"
+subtitle = "Colaborations, Drafts & White Papers"
 
 # Order that this section will appear in.
 weight = 14
 
 # Number of publications to list.
-count = 15
+count = 5
 
 # List format.
 #   0 = Simple
@@ -33,10 +33,10 @@ list_format = 3
 #  7: White Papers
 #  8: Poster
 # 9: Thesis
-publication_type = "-1"
+publication_type = "3"
 
 # Exclude publications that are shown in the Selected Publications widget?
-exclude_selected = false
+exclude_selected = true
 
 #Section added by Hugh
 # Show publication details (such as abstract)? (true/false)

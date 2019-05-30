@@ -32,6 +32,8 @@ __[Belbin Team Roles](https://www.belbin.com/about/belbin-team-roles/)__
 + Monitor Evaluator
 
 __Myers-Briggs Personalty Type__
-_I usually vacillate on test between 'E' and 'I'. Usually this means that the [NT archetype](https://en.wikipedia.org/wiki/Rational_temperament) is much stronger than the single value for 'E/I'._
+
+*I usually vacillate on test between 'E' and 'I'. Usually this means that the [NT archetype](https://en.wikipedia.org/wiki/Rational_temperament) is much stronger than the single value for 'E/I'.*
+
 + [ENTP](https://www.16personalities.com/entp-strengths-and-weaknesses)
 + [INTP](https://www.16personalities.com/intp-strengths-and-weaknesses)
