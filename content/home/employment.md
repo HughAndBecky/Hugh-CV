@@ -34,11 +34,11 @@ SIL International, International Language Program Training
 Dallas, Texas and Virtual Team
 2011 – 2018
 
-Within the context of [SIL's Training](https://www.sil.org/training) mission I: 
+Within the context of [SIL's Training](https://www.sil.org/training) mission: 
 
-+ Worked with a team to bring language documentation and linguistic content to the web in a user friendly manner with current web technologies.
-+ Acted as a business consultant to organizational units in SIL International to bring their services to the web.
-+ Major areas of participation: Information Architecture, Planning, Business Analysis, User Experience Analysis, Communication Strategy Development and implementation.
++ I worked with a team to bring language documentation and linguistic content to the web in a user friendly manner with current web technologies.
++ I acted as a business consultant to organizational units in SIL International to bring their services to the web.
++ My major areas of participation included: *Information Architecture, Planning, Business Analysis, User Experience Analysis, Communication Strategy Development and implementation*.
 
 _Assistant to the Americas Area Access Coordinator_
 
