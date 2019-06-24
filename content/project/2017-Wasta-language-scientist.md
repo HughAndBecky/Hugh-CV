@@ -24,4 +24,4 @@ math = false
 #Draft Status
 draft = false
 +++
-I should make this image the wasta logo plus all the other logos I am using.
+#I should make this image the wasta logo plus all the other logos I am using.

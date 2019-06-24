@@ -25,14 +25,14 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [[url_custom]]
 name = "Previous Work"
-url = "/project/2012-mexico-keyboards/"
+url = "/Hugh-CV/project/2012-mexico-keyboards/"
 
 [header]
 image = "headers/bubbles-wide.jpg"
 caption = "Input design :smile:"
 
 +++
-This project formalized my interest in the text input problem. While doing text input for the Meꞌphaa language documentation project it was imperative to get Unicode encoded texts. I worked with Kevin Cline to create OS X and native Windows OS keyboards for Meꞌphaa writers.  We used [Ukelele](http://scripts.sil.org/ukelele) to create the OS X keyboards and  [Microsoft Keyboard Layout Creator (MSKLC)](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx) to create the Windows keyboards.
+This project formalized my interest in the text input problem. While doing text input for the Meꞌphaa language documentation project it was imperative to get Unicode encoded texts. I worked with Kevin Cline to create OS X and native Windows OS keyboards for Meꞌphaa writers.  We used [Ukelele](http://scripts.sil.org/ukelele) to create the OS X keyboards and  [Microsoft Keyboard Layout Creator (MSKLC)](https://web.archive.org/web/20170202084913/https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx) to create the Windows keyboards.
 
 Upon hearing of my new found skills, language users from the Sochiapam Chinantec community asked me to make an OS X keyboard for their language. In both cases existing keyboard layouts were matched to synchronize the user experience across the OSes.
 

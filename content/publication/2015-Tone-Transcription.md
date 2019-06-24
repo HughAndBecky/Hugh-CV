@@ -17,6 +17,11 @@ url_pdf = "https://www.internationalphoneticassociation.org/icphs-proceedings/IC
 # url_slides = ""
 # url_video = ""
 
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Tone", "Descriptive-Phonetics"]
+
 [[url_custom]]
 name = "Poster"
 url = "https://github.com/HughP/ICPhS-2015/blob/master/Poster/Paterson-ICPhS-2015-poster.pdf"

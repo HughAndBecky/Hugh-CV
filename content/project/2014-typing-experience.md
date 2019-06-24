@@ -29,7 +29,7 @@ caption = "My caption :smile:"
 +++
 **Previous work**:
 
-This project follows and builds upon the project where [keyboard layouts for Meꞌphaa and Sochiapam Chinantec](/project/2012-mexico-keyboards/) were produced. This project uses data from Meꞌphaa and Sochiapam Chinantec but purposely extends the scope of the analysis to include Latin and Cyrillic script languages, particularly focusing on those with diacritics which express tone.
+This project follows and builds upon the project where [keyboard layouts for Meꞌphaa and Sochiapam Chinantec](/Hugh-CV/project/2012-mexico-keyboards/) were produced. This project uses data from Meꞌphaa and Sochiapam Chinantec but purposely extends the scope of the analysis to include Latin and Cyrillic script languages, particularly focusing on those with diacritics which express tone.
 
 **Goals**:
 

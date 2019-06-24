@@ -3,29 +3,30 @@ draft = false
 abstract = ""
 abstract_short = "A thesis proposal for an M.A. in Linguistics at the University of North Dakota."
 authors = ["Hugh Paterson III"]
-date = "2018-03-30"
+date = "2018-03-31"
 image_preview = ""
 math = false
 publication_types = ["9"]
-publication = "Keyboard layouts across languages: A Text input analysis"
-publication_short = "In Press"
+publication = ""
+publication_short = ""
 selected = false
 title = "Keyboard layouts across languages: A Text input analysis"
 url_code = ""
 url_dataset = ""
-url_pdf = "https://hughandbecky.us/Hugh-CV/publication/2018-thesis-proposal/Keyboard-layouts-across-languages_A-Text-input-analysis.pdf"
+url_pdf = ""
 url_project = "project/2014-typing-experience/"
 url_slides = ""
 url_video = ""
 
-#[[url_custom]]
-#name = "Custom Link"
-#url = ""
+[[url_custom]]
+name = "Thesis Proposal"
+url = "publication/2018-thesis-proposal/Keyboard-layouts-across-languages_A-Text-input-analysis.pdf"
+
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++
 ## Proposal

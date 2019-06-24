@@ -14,10 +14,18 @@ title = "Open Source Code Serving Endangered Languages"
 url_code = ""
 url_dataset = ""
 url_pdf = "http://www.lrec-conf.org/proceedings/lrec2016/workshops/LREC2016Workshop-CCURL2016_Proceedings.pdf"
-url_project = "project/2016-awesome-list"
+url_project = "project/2012-archive-usability/"
 url_slides = ""
 url_video = ""
 event_url = "http://www.ilc.cnr.it/ccurl2016/"
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Low Resource Languages", "Archive", "Indexing"]
+
+[[url_custom]]
+name = "Community"
+url = "project/2016-awesome-list"
 
 +++
 

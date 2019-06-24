@@ -6,7 +6,7 @@ image_preview = "interdental.png"
 location = []
 math = false
 summary = "An investigation and description of a rare and socially stigmatized speech sound where the tongue protrudes out of the mouth."
-tags = ["linguistic","Language-Documentation","Phonetics", "Historical-Linguistics", "Austronesian-Linguistics"]
+tags = ["linguistic","Language-Documentation","Phonetics", "Interdental approximant", "Historical-Linguistics", "Austronesian-Linguistics", "Descriptive-Phonetics"]
 title = "Interdental approximant"
 
 [[url_custom]]
@@ -56,7 +56,7 @@ In this project description I have listed more than my contribution because I am
 
 **Results & Significance**:
 
-* Ultrasound Study on the articulation of the interdental approximant. 
+* Ultrasound Study on the articulation of the interdental approximant.
 * Published phonetic descriptions of the interdental approximant.
 
 **Academic Output**:
@@ -104,7 +104,7 @@ The following remain to be shown clearly in appropriate publications.
   * Where does it stop and where does it begin?
   * What is the acoustical (in terms of both production and perception) difference between /l/ and /ð̞ /?
 
-  The ulturasound study does provide a good starting point to answer these questions.  
+  The ulturasound study does provide a good starting point to answer these questions.
 
 * ð̞ it has a unique spectrograph when compared with other liquids, vowels, and interdentals - especially within the same language.
 * ð̞ is different from the native sounds of { l, a, ɐ, n, ʔ, d, g, r, s, h, x} which occur in Philippine languages.

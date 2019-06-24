@@ -3,7 +3,7 @@ abstract = "The (inter)dental approximant is a little-studied speech sound in th
 authors = ["Kenneth S. Olson", "Jeff Mielke","Josephine Sanicas-Daguman","Carol Jean Pebley", "Hugh Paterson III"]
 date = "2010-07-08"
 image_preview = ""
-math = true
+math = false
 publication_types = ["2"]
 publication = "In the *Journal of the International Phonetic Association*"
 publication_short = "In *JIPA*"
@@ -12,9 +12,13 @@ title = "The phonetic status of the (inter)dental approximant."
 url_code = ""
 url_dataset = ""
 url_pdf = "https://www.sil.org/resources/archives/48235"
-url_project = "/project/2010-interdental-approximant/"
+url_project = "project/2010-interdental-approximant/"
 url_slides = ""
 url_video = ""
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Interdental approximant", "International Phonetic Alphabet"]
 
 [[url_custom]]
 name = "Publisher Page"
@@ -34,7 +38,7 @@ caption = "Kagayanen interdental approximant :smile:"
 
 <!-- Kenneth S. Olson, Jeff Mielke, Josephine Sanicas-Daguman, Carol Jean Pebley and Hugh J. Paterson III (2010) *The phonetic status of the (inter)dental approximant*. Journal of the International Phonetic Association, 40.2 , pp. 199-215. doi:[10.1017/S0025100309990296](https://doi.org/10.1017/S0025100309990296) -->
 
-<span class="Z3988" title="ctx_ver=Z39.882004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft.atitle=The+phonetic+status+of+the+%28inter%29dental+approximant&amp;rft.title=Journal+of+the+International+Phonetic+Association&amp;rft.stitle=JIPA&amp;rft.issn=1475-3502&amp;rft.eissn=1475-3502&amp;rft.date=2010-08-01&amp;rft.volume=40&amp;rft.issue=2&amp;rft.spage=199&amp;rft.epage=215&amp;rft.aulast=Olson&amp;rft.aufirst=Kenneth+S.&amp;rft.auinit=KSO&amp;rft.au=Kenneth+S.+KSO+Olson&amp;rft.au=Jeff+Mielke&amp;rft.au=Josephine+Sanicas-Daguman&amp;rft.au=Carol+Jean+Pebley&amp;rft.au=Hugh+J.+Paterson+III&amp;rft_id=info:doi/10.1017%2FS0025100309990296">Kenneth S. Olson, Jeff Mielke, Josephine Sanicas-Daguman, Carol Jean Pebley and Hugh J. Paterson (2010) <em>The phonetic status of the (inter)dental approximant</em>. Journal of the International Phonetic Association, 40 , pp. 199-215. doi:<a href="http://journals.cambridge.org/abstract_S0025100309990296">10.1017/S0025100309990296</a></span>
+<span class="Z3988" title="ctx_ver=Z39.882004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft.atitle=The+phonetic+status+of+the+%28inter%29dental+approximant&amp;rft.title=Journal+of+the+International+Phonetic+Association&amp;rft.stitle=JIPA&amp;rft.issn=1475-3502&amp;rft.eissn=1475-3502&amp;rft.date=2010-08-01&amp;rft.volume=40&amp;rft.issue=2&amp;rft.spage=199&amp;rft.epage=215&amp;rft.aulast=Olson&amp;rft.aufirst=Kenneth+S.&amp;rft.auinit=KSO&amp;rft.au=Kenneth+S.+KSO+Olson&amp;rft.au=Jeff+Mielke&amp;rft.au=Josephine+Sanicas-Daguman&amp;rft.au=Carol+Jean+Pebley&amp;rft.au=Hugh+J.+Paterson+III&amp;rft_id=info:doi/10.1017%2FS0025100309990296">Kenneth S. Olson, Jeff Mielke, Josephine Sanicas-Daguman, Carol Jean Pebley and Hugh J. Paterson (2010) <em>The phonetic status of the (inter)dental approximant</em>. Journal of the International Phonetic Association, 40.2 , pp. 199-215. doi:<a href="http://journals.cambridge.org/abstract_S0025100309990296">10.1017/S0025100309990296</a></span>
 
 **Comments**:
 My contribution in this collective work involved extensive library research, the collection of sources, translation of sources, and evaluating the personal un-published field notes of previous scholars. Encouraged in the historical comparative work by Ken Olson, I suggest that there is enough evidence to support the idea that the interdental approximant is a retention, rather than independent innovations. My research work on this topic resulted in me presenting two additional academic presentations. See the interdental approximant project description for further details.
